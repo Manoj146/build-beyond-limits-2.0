@@ -3,7 +3,7 @@ project name : Valkey_for_ai
 Team Details : Manoj,Vedanth,Sai,Jaya Krishna
 Github username : Manoj146
 LinkedIn Profile: https://www.linkedin.com/in/manoj-pachipulusu-a51873258/
-GitHub Project Repository: https://github.com/Manoj146/valkey-for-ai.git
+GitHub Project Repository: https://github.com/Manoj146/ValkeyForAI.git
 Problem statement:Build or extend AI-powered applications showcasing Valkey's vector search, semantic caching, and agent memory capabilities.
 Project description: 
 An AI-powered chat assistant that combines **Valkey's semantic vector caching** with **Breeth's intent-aware memory** to deliver fast, personalized responses.
